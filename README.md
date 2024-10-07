@@ -12,7 +12,7 @@ Instead of using traditional curve-fitting methods on complex non-linear decay f
 
 - Custom-built **microphone** and **speaker boards** for data collection
 - Offline data analysis based on **Schroeder’s method** for reverberation measurement
-- ![image](https://github.com/user-attachments/assets/0f538195-e799-4729-9b73-30c15b0d84c3)
+ ![image](https://github.com/user-attachments/assets/0f538195-e799-4729-9b73-30c15b0d84c3)
 
 
 ### Methodology
