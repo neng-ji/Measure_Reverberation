@@ -27,3 +27,11 @@ Instead of using traditional curve-fitting methods on complex non-linear decay f
 - **Author**: Manfred R. Schroeder
 - **Publication Date**: December 14, 1964
 - **Link**: [New Method of Measuring Reverberation Time](https://www.ee.columbia.edu/~dpwe/papers/Schro65-reverb.pdf)
+
+## Acknowledgments
+
+Thank you to the project members: Christian, Colton, and Josh.
+
+We are very grateful for the support of **Professor George Gollin** and **Professor Yuk Tung Liu**.
+
+Thanks to **Professor Rick Scholwin** for granting us access to the dance center and providing acoustic foam for our tests.
