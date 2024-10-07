@@ -12,8 +12,6 @@ Instead of using traditional curve-fitting methods on complex non-linear decay f
 
 - Custom-built **microphone** and **speaker boards** for data collection
 - Offline data analysis based on **Schroeder’s method** for reverberation measurement
-- Accurate transformation of non-linear functions into linear for simpler fitting
-- **Successful implementation** of this method in a real-world setting
 
 ### Methodology
 
